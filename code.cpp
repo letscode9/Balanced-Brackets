@@ -43,7 +43,7 @@ int main()
             }
             else
             {
-                if(ss.top()!='[')
+                if( ss.top()!='[')
                 {
                     f=1;
                     break;
